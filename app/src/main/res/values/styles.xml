@@ -19,19 +19,5 @@
     </style>
 
 
-    <style name="parent">
-        <item name="android:layout_width">match_parent</item>
-        <item name="android:layout_height">wrap_content</item>
-    </style>
-
-
-
-
-    <style name="loginCard" parent="parent"></style>
-
-    <style name="linearParent" parent="parent">
-        <item name="android:orientation">vertical</item>
-    </style>
-
 
 </resources>
