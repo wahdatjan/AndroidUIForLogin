@@ -15,7 +15,6 @@ import androidx.constraintlayout.widget.ConstraintLayout;
 
 import com.app.schoolproject.R;
 import com.app.schoolproject.login.LoginActivity;
-import com.google.android.material.textfield.TextInputEditText;
 
 public class SignUpActivity extends AppCompatActivity {
 
